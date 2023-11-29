@@ -1,0 +1,29 @@
+*.pkl
+*.npy
+*.pt
+*.pyc
+**/__*__/**
+gcl*/**
+
+*.out
+# *.log
+.vscode/
+__pycache__/
+*.pyc
+*.pt
+*.model
+*.dgl
+*.txt
+*results/
+# *datasets/
+*.npz
+*.npy
+# *.sh
+# *.log
+*.cmd
+data/*
+*.pdf
+*.png
+# *.json
+
+.idea/
